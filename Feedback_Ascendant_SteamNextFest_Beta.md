@@ -130,7 +130,7 @@ Here i will test some out in future matches when i got time. i haven't tried mos
 
 | Name                  | From                                                                | To                                                                   |
 | --------------------- | ------------------------------------------------------------------- | -------------------------------------------------------------------- |
-| Threat Scanner: Rapid | Highlights all enemy players within 70m to your team for 6 seconds. | Highlights all enemy players within 70m to your team for 20 seconds. |
+| Threat Scanner: Rapid | Highlights all enemy players within 70m to your team for 6 seconds. <br> 30 second cooldown | Highlights all enemy players within 70m to your team for 6 seconds. <br>20 second cooldown |
 
 
 
