@@ -3,6 +3,8 @@ Before anything else, I would like to say that I am not the type that likes to w
 Also obviously this is all my opinion, so you might not agree on everything i say.
 One more thing, i am sorry for the poor layout, i did it in obsidian and was bit hard to copy cause of .md...
 
+## Content
+
 [1. General Feedback](#1-general-feedback)<br>
 [2. Event Feedback](#2-event-feedback)<br>
 [3. Lobby Feedback](#1-lobby-experience)<br>
@@ -18,12 +20,12 @@ One more thing, i am sorry for the poor layout, i did it in obsidian and was bit
 &nbsp;&nbsp;&nbsp;&nbsp;[7.3 testudoferus](#73-testudoferus)<br>
 [8. Conclusion](#8.-conclusion)<br>
 
-### 1. General Feedback
+## 1. General Feedback
 (This was also mentioned by Aidan briefly) I feel like a lot of things that are pretty hard to find on your own aren't explained anywhere a normal person would look. Though there is a codex page on the events as an example, most people who tried this beta for the first time or didn't have an insider introduction didn't even know some of these events existed. I don't even think the Codex Page is introduced to the new player.
 
 One more thing on a general notice. The communication this beta was absolutely horrendous, ChaosCash brought this to my attention mostly. The early start, of course it was kinda nice, but it was scuffed at the same time, and the sudden end of top dogs.  These things could easily be announced earlier with better communication. Obviously i'm not gonna point fingers because i don't know where it failed, but due to my regular conversations with the Community Managers that normally put out these announcements, i don't think its to much of their fault. More than that i cant say and won't.
 
-### 2. Event Feedback
+## 2. Event Feedback
 In my opinion Events are a great part of Ascendant, though a lot of them are very unbalanced, i will try to not go as in depth for those who already got enough feedback from others like the EMP or else. Also the ones I did not list are pretty good balanced in my opinion.
 
 
@@ -35,10 +37,10 @@ In my opinion Events are a great part of Ascendant, though a lot of them are ver
 | Gorlizard Mindlink | The HP nerf was a right step, though it's still way too strong, when playing alone against it. There should be a way to disable it while active in the station where it first was enabled, maybe a 30 second capture that will (Lore) will shoot a poison into the Gorlizard killing it, idk. Which would be heard mapwide tho. if it was activated. Also the Gorlizard activation should be a mapwide sound. |
 | Life Plant         | I don't know if it's a bug, but i have this whole beta, not seen a heart in the Lifeplant. Maybe the timer needs to be set down.                                                                                                                                                                                                                                                                              |
 
-### 3. Lobby Experience
+## 3. Lobby Experience
 To start this off, some positives, the Lobby design and mini-games are extremely fun and when you start playing you would find something new every once in a while, such as the speed trials (maybe rocky roads is a bit to hidden). Also the traverse in the lobby is fairly fast tho its very annoying that there's only 1(2) Loadout stations, only 2 Custom Guns editor or only character terminal in the beauty sector, even though there's cosmetics as far away as Beam Gloves.
 
-### 4. Movement
+## 4. Movement
 This is a big topic in this game, which during this beta i have been talking about a lot with Aidan especially. Just a side note, the slide is still obviously not even close to release, its bugged as nothing else. There are as of right now two types of slides tho, the first is the only for the first roughly 5 minutes of joining a lobby, this is a pretty solid long slide, after those rough 5 minutes the slide just dies out, and it turns into a dead slide every time, Iceman guesses its a character offset problem, but i don't know. 
 What i would do with the slide, is make it possible to instant slide, right now there's a sort of inertia in sliding, you'll need to run for a specific amount of ms to get a slide and not just crouch. So make an instant slide plus the first 5 minutes slide always. I don't know if that was a the goal but its definitely way better than afterwards.
 For the Jump i would literally just say that its to long, it should be shorter or i should say the gravity should be turned up for a regular jump, i don't really know how to make it make sense without nerfing the wind vortex hard. Just make the falling faster and the jump would probably feel a lot better.
@@ -47,7 +49,7 @@ Also i feel like air strafing should be more of a thing than it is now.
 On climbing and vaulting, first of all climbing ladders should be the same speed as normal climbing.
 Now on a more hot topic were some might not agree with me. I feel like there should be a way to wall jump something like in Apex. Right now most movement methods are very predictable, this would add another layer on movement and a higher skill ceiling in movement. I really think that could help this game get people from Apex to try it more.
 
-### 5. Gunplay
+## 5. Gunplay
 I love the general gun play, though there are obvious balancing issues, especially in custom guns, but also in normal guns like the midnight surge, these i will go over in this section.
 
 First of all, the obvious SMG meta is still very present even after the nerf. Tho other guns are also way to strong, something like a surge and shotguns. Shotguns are extremely cheap and if you build it right they are just way to strong, also the m1 and findable shotguns. In counter the snipers are just way to expensive to be running, at least if these other guns are so cheap. The SMG nerf was good, but not enough and SMG is not even the only op gun as of right now.
@@ -63,7 +65,7 @@ Melee beam gloves: nerf damage a bit, 3 hit on blue just too good.(sorry charlie
 Beam gloves: while using left click, become more effective by damage or certain types of damage
 
 
-### 6. Perks and Abilities
+## 6. Perks and Abilities
 Here i will talk about different perks and abilities, some changes on them but also some general stuff on it.
 First of all, general stuff. As Raedn mentioned in his feedback there are only a few usable perks. That is basically all there is to perks and abilities.
 Now i'll go over the perks and abilities and what i think they should be. Again the ones i don't mentioned are good or i forgot em. This is just an idea, some might be good some might be bad, i made this cause i got spare time and why not, its skippable. Its also not completely thought through on some of em.
@@ -71,7 +73,7 @@ Most of these perks i set to be buffed that means they would play a way bigger r
 It would be very different if you wanted perks to be just a small add on, but then something like tracker or med sharing would not fit in anyway.
 
 
-#### 6.1 Combat Perks
+### 6.1 Combat Perks
 
 | NAME                      | FROM                                                                                                                                                                       | TO                                                                                                                                                                              |
 | ------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -101,7 +103,7 @@ It would be very different if you wanted perks to be just a small add on, but th
 
 
 
-#### 6.2 Utility Perks
+### 6.2 Utility Perks
 
 | Name                    | From                                                                                                                                                       | To                                                                                                                                                                                     |
 | ----------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -120,7 +122,7 @@ It would be very different if you wanted perks to be just a small add on, but th
 | **CHEMICAL WARFARE**    | Your starting inventory includes one spore trap.                                                                                                           | not good enough at all in my opinion                                                                                                                                                   |
 | **ONE WITH NATURE**     | Wildlife doesn't attack you unless you attack them  <br>and you take 20% reduced damage from them.                                                         | all you can do here is up the percentage but I don't knowif its worth                                                                                                                  |
 
-#### 6.3 Carrier Ability
+### 6.3 Carrier Ability
 Here i will test some out in future matches when i got time. i haven't tried most of em
 
 | Name                  | From                                                                | To                                                                   |
@@ -129,21 +131,21 @@ Here i will test some out in future matches when i got time. i haven't tried mos
 
 
 
-### 7. Feedback of new players
+## 7. Feedback of new players
 Over this week I have had some friends that tried the game for the first time, it were only 1 that tried and 2 that watched some videos and they come from the same game, the cycle frontier, all of them are waiting for a good extraction game which has high ttk and is pretty movement based, but would be willing to give ascendant a try because I told them it was good. They also saw it on Minda999 Youtube video on it, so they have heard about it before i told them.
 
 Quick side note, these guys **don't** deserve this glazing.
-#### 7.1 l600f
+### 7.1 l600f
 l6 plays mostly dark and darker nowadays, was top 500 overwatch, though still loves high ttk movement shooters. Plays hella aggressive assault rifle or SMG in most games. Movement player with solid aim.
 I, CuzSai, queued one game with him, he went in with nothing except the tutorial. Was planning to explain while playing, sadly we ran into RaedN and someone else i forgot who it was(some good player i think IceMan not sure). So he got absolutely cooked. After that he went off and hasn't played since. I will definitely make him play more the next time i get a chance to.
 
 His reason to not playing anymore was, skill difference, this is obvious cause he was queuing with me. I wont make that mistake anymore. More reasons were, hes just so into extraction games nowadays that he wont dedicate the hours to an unfinished game as of right now. Which is absolutely fair. He said one more thing which i find interesting, he said that the map looks to big and it feels like the distances would be large but the guns feel like their mostly close range. He watched a video on someone who played without an insider or experienced player guiding them after he played for the first time. The part with the distance between fights and mostly close range guns is interesting and maybe shows (even tho it wasn't an insider event video he watched) that i should show my creators more bandwidth of the game, because I've mainly been showing em what they know from other games, which is mostly SMGs. I don't know if that was just him feeling that way but i will look for others to see what i could show creators or their respective communities that could help want them to play.
 
 
-#### 7.2 xmorty_y
+### 7.2 xmorty_y
 Morty mainly plays overwatch right now, sometimes apex or finals and a bit of fragpunk, which he liked. Above average player, plays medium in finals and is rather passive and not as aggressive.
 
-#### 7.3 testudoferus
+### 7.3 testudoferus
 Testudo plays god knows what right now, has a lot of hours in apex, likes finals and also liked fragpunk when he played. He's a movement focused player and likes to play snipers and SMGs in most games.
 
 
