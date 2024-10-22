@@ -1,4 +1,17 @@
 # BUGREPORT
+## Content
+[No Damage Bug](#no-damage-bug)<br>
+[Shield Repairs not Working](#Shield-repairs-not-working)<br>
+[Very far Biocore Jump](#Very-far-Biocore-jump)<br>
+[Bot Stealing Biocore while Walking away](#Bot-stealing-Biocore-while-walking-away)<br>
+[Bot inside Extract Vehicle while Stealing Biocore](#Bot-inside-extract-vehicle-while-stealing-Biocore)<br>
+[Gorlizard inside Tree and big ugged Jump](#Gorlizard-inside-tree-and-big-bugged-jump)<br>
+[Gorlizard on interesting spot in Cave Outpost](#Gorlizard-on-interesting-spot-in-Cave-Outpost)<br>
+[Gorlizard unshootable while in his Head](#Gorlizard-unshootable-while-in-his-head)<br>
+[Horizontal Movement is bugged](#Horizontal-movement-is-bugged)<br>
+
+
+
 
 ## Introduction
 I will try to sort it as good as possible and make it easily navigatable, some of these may already be fixed or sent in.
@@ -23,7 +36,7 @@ https://youtu.be/Iw7HfnceSEM
 ### Bot inside extract vehicle while stealing Biocore
 https://youtu.be/U9lONtBEw0M
 <br><br>
-### Gorlizard inside tree and big bugged jump.
+### Gorlizard inside tree and big bugged jump
 If you jump right after activating leap, you can jump way higher and get a quicker deploy in the air. Also able to slide if ground is hit.<br>
 https://youtu.be/OsdIB73La1c
 ### Gorlizard on interesting spot in Cave Outpost
