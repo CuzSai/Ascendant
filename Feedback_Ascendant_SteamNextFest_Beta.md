@@ -44,12 +44,12 @@ In my opinion Events are a great part of Ascendant, though a lot of them are ver
 To start this off, some positives, the Lobby design and mini-games are extremely fun and when you start playing you would find something new every once in a while, such as the speed trials (maybe rocky roads is a bit to hidden). Also the traverse in the lobby is fairly fast tho its very annoying that there's only 1(2) Loadout stations, only 2 Custom Guns editor or only character terminal in the beauty sector, even though there's cosmetics as far away as Beam Gloves.
 
 ## 4. Movement
-This is a big topic in this game, which during this beta i have been talking about a lot with Aidan especially. Just a side note, the slide is still obviously not even close to release, its bugged as nothing else. There are as of right now two types of slides tho, the first is the only for the first roughly 5 minutes of joining a lobby, this is a pretty solid long slide, after those rough 5 minutes the slide just dies out, and it turns into a dead slide every time, Iceman guesses its a character offset problem, but i don't know. 
+This is a big topic in this game, which during this beta i have been talking about a lot with Aidan especially. Just a side note, the slide is still obviously not even close to release, its bugged as nothing else. There are as of right now two types of slides tho, the first is the only for the first roughly 5 minutes of joining a lobby, this is a pretty solid long slide, after those rough 5 minutes the slide just dies out, and it turns into a dead slide every time, Iceman guesses its a character offset problem, but i don't know.<br> 
 What i would do with the slide, is make it possible to instant slide, right now there's a sort of inertia in sliding, you'll need to run for a specific amount of ms to get a slide and not just crouch. So make an instant slide plus the first 5 minutes slide always. I don't know if that was a the goal but its definitely way better than afterwards.
-For the Jump i would literally just say that its to long, it should be shorter or i should say the gravity should be turned up for a regular jump, i don't really know how to make it make sense without nerfing the wind vortex hard. Just make the falling faster and the jump would probably feel a lot better.
-WASD: The directional movement is fine, though the standard bug, if you press a and d at the same time you always go right tho you should stand still.
-Also i feel like air strafing should be more of a thing than it is now.
-On climbing and vaulting, first of all climbing ladders should be the same speed as normal climbing.
+For the Jump i would literally just say that its to long, it should be shorter or i should say the gravity should be turned up for a regular jump, i don't really know how to make it make sense without nerfing the wind vortex hard. Just make the falling faster and the jump would probably feel a lot better.<br>
+WASD: The directional movement is fine, though the standard bug, if you press a and d at the same time you always go right tho you should stand still.<br>
+Also i feel like air strafing should be more of a thing than it is now.<br>
+On climbing and vaulting, first of all climbing ladders should be the same speed as normal climbing.<br>
 Now on a more hot topic were some might not agree with me. I feel like there should be a way to wall jump something like in Apex. Right now most movement methods are very predictable, this would add another layer on movement and a higher skill ceiling in movement. I really think that could help this game get people from Apex to try it more.
 
 ## 5. Gunplay
@@ -57,22 +57,22 @@ I love the general gun play, though there are obvious balancing issues, especial
 
 First of all, the obvious SMG meta is still very present even after the nerf. Tho other guns are also way to strong, something like a surge and shotguns. Shotguns are extremely cheap and if you build it right they are just way to strong, also the m1 and findable shotguns. In counter the snipers are just way to expensive to be running, at least if these other guns are so cheap. The SMG nerf was good, but not enough and SMG is not even the only op gun as of right now.
 
-My nerfs will not be specific because i don't know how to nerf them.
-Definitely up the price for shotguns, nerf the base shotguns.
-Up price on SMG slightly, nerf SMG in general, especially falloff distance in general.
-Make Snipers more affordable(just a little).
-Nerf fire rate of surges reload speed too.
-Heavy battle rifles(full auto): buff damage slightly and dampen recoil
-semi auto battle rifles: buff bullet velocity.
-Melee beam gloves: nerf damage a bit, 3 hit on blue just too good.(sorry charlie)
+My nerfs will not be specific because i don't know how to nerf them.<br>
+Definitely up the price for shotguns, nerf the base shotguns.<br>
+Up price on SMG slightly, nerf SMG in general, especially falloff distance in general.<br>
+Make Snipers more affordable(just a little).<br>
+Nerf fire rate of surges reload speed too.<br>
+Heavy battle rifles(full auto): buff damage slightly and dampen recoil<br>
+semi auto battle rifles: buff bullet velocity.<br>
+Melee beam gloves: nerf damage a bit, 3 hit on blue just too good.(sorry charlie)<br>
 Beam gloves: while using left click, become more effective by damage or certain types of damage
 
 
 ## 6. Perks and Abilities
 Here i will talk about different perks and abilities, some changes on them but also some general stuff on it.
-First of all, general stuff. As Raedn mentioned in his feedback there are only a few usable perks. That is basically all there is to perks and abilities.
-Now i'll go over the perks and abilities and what i think they should be. Again the ones i don't mentioned are good or i forgot em. This is just an idea, some might be good some might be bad, i made this cause i got spare time and why not, its skippable. Its also not completely thought through on some of em.
-Most of these perks i set to be buffed that means they would play a way bigger role, again this is my opinion and please don't get mad when i say some of these should not be worth investing time in.
+First of all, general stuff. As Raedn mentioned in his feedback there are only a few usable perks. That is basically all there is to perks and abilities.<br>
+Now i'll go over the perks and abilities and what i think they should be. Again the ones i don't mentioned are good or i forgot em. This is just an idea, some might be good some might be bad, i made this cause i got spare time and why not, its skippable. Its also not completely thought through on some of em.<br>
+Most of these perks i set to be buffed that means they would play a way bigger role, again this is my opinion and please don't get mad when i say some of these should not be worth investing time in.<br>
 It would be very different if you wanted perks to be just a small add on, but then something like tracker or med sharing would not fit in anyway.
 
 
@@ -140,15 +140,15 @@ Over this week I have had some friends that tried the game for the first time, i
 Quick side note, this guy **doesn't** deserve this glazing.
 ### 7.1 l600f
 l6 plays mostly dark and darker nowadays, was top 500 overwatch, though still loves high ttk movement shooters. Plays hella aggressive assault rifle or SMG in most games. Movement player with solid aim.
-I, CuzSai, queued one game with him, he went in with nothing except the tutorial. Was planning to explain while playing, sadly we ran into RaedN and someone else i forgot who it was(some good player i think IceMan not sure). So he got absolutely cooked. After that he went off and hasn't played since. I will definitely make him play more the next time i get a chance to.
-
+I, CuzSai, queued one game with him, he went in with nothing except the tutorial. Was planning to explain while playing, sadly we ran into RaedN and someone else i forgot who it was(some good player i think IceMan not sure). So he got absolutely cooked. After that he went off and hasn't played since. I will definitely make him play more the next time i get a chance to.<br>
+<br>
 His reason to not playing anymore was, skill difference, this is obvious cause he was queuing with me. I wont make that mistake anymore. More reasons were, hes just so into extraction games nowadays that he wont dedicate the hours to an unfinished game as of right now. Which is absolutely fair. He said one more thing which i find interesting, he said that the map looks to big and it feels like the distances would be large but the guns feel like their mostly close range. He watched a video on someone who played without an insider or experienced player guiding them after he played for the first time. The part with the distance between fights and mostly close range guns is interesting and maybe shows (even tho it wasn't an insider event video he watched) that i should show my creators more bandwidth of the game, because I've mainly been showing em what they know from other games, which is mostly SMGs. I don't know if that was just him feeling that way but i will look for others to see what i could show creators or their respective communities that could help want them to play.
 
 
 ## 8. Conclusion
 So what do we get from all of that. What should the developers and PF in general in my opinion focus on. 
-I would love if you kept going like this, i really like the kind of gamemode your focused on and what we played. It's very interesting and different from the regular capture the flag and goes pretty far away from the rise of hero and 3rd person shooters, what i really like.
-Though through talking with a lot of people during this beta, i really don't know how far this game can go, in this market. Obviously i don't know much about game market because i haven't really been invested in stuff like that for too long, i just play them for the most part, but i just heard people talking a lot.
-l600f as an example said, "if this was a extraction shooter, people would be dying to play this game", now i'm not too sure about how true that statement is, an extraction shooter would at least be a known kind of gamemode for most people and one that is similar to the beloved cycle, which has done... medium well. But to much time and effort and good ideas would have been wasted.
-At this state of game, i mostly just hope that PlayFusion has some type of plan because i don't think 500 players peak is good enough for them when spending probably ton of money on
+I would love if you kept going like this, i really like the kind of gamemode your focused on and what we played. It's very interesting and different from the regular capture the flag and goes pretty far away from the rise of hero and 3rd person shooters, what i really like.<br>
+Though through talking with a lot of people during this beta, i really don't know how far this game can go, in this market. Obviously i don't know much about game market because i haven't really been invested in stuff like that for too long, i just play them for the most part, but i just heard people talking a lot.<br>
+l600f as an example said, "if this was a extraction shooter, people would be dying to play this game", now i'm not too sure about how true that statement is, an extraction shooter would at least be a known kind of gamemode for most people and one that is similar to the beloved cycle, which has done... medium well. But to much time and effort and good ideas would have been wasted.<br>
+At this state of game, i mostly just hope that PlayFusion has some type of plan because i don't think 500 players peak is good enough for them when spending probably ton of money on<br>
 2 sponsored streams and multiple videos during an open beta. Best we, as the community, can do now is try to help them out and keep a player base during the open tests to give new players some real lobbies.
