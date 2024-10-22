@@ -3,19 +3,19 @@ Before anything else, I would like to say that I am not the type that likes to w
 Also obviously this is all my opinion, so you might not agree on everything i say.
 One more thing, i am sorry for the poor layout, i did it in obsidian and was bit hard to copy cause of .md...
 
-[1. General Feedback](#1.-general-feedback)<br>
-[2. Event Feedback](#2.-event-feedback)<br>
-[3. Lobby Feedback](#1.-lobby-experience)<br>
-[4. Movement](#4.-movement)<br>
-[5. Gunplay](#5.-gunplay)<br>
-[6. Perks and Abilities](#6.-perks-and-abilities)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;[6.1 Combat Perks](#6.1-combat-perks)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;[6.2 Utility Perks](#6.2-utility-perks)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;[6.3 Carrier Ability](#6.3-carrier-ability)<br>
-[7. Feedback of new players](#7.-feedback-of.new-players)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;[7.1 l600f](#7.1-l600f)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;[7.2 xmorty_y](#7.2-xmorty_y)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;[7.3 testudoferus](#7.3-testudoferus)<br>
+[1. General Feedback](#1-general-feedback)<br>
+[2. Event Feedback](#2-event-feedback)<br>
+[3. Lobby Feedback](#1-lobby-experience)<br>
+[4. Movement](#4-movement)<br>
+[5. Gunplay](#5-gunplay)<br>
+[6. Perks and Abilities](#6-perks-and-abilities)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;[6.1 Combat Perks](#61-combat-perks)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;[6.2 Utility Perks](#62-utility-perks)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;[6.3 Carrier Ability](#63-carrier-ability)<br>
+[7. Feedback of new players](#7-feedback-of.new-players)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;[7.1 l600f](#71-l600f)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;[7.2 xmorty_y](#72-xmorty_y)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;[7.3 testudoferus](#73-testudoferus)<br>
 [8. Conclusion](#8.-conclusion)<br>
 
 ### 1. General Feedback
