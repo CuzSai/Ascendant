@@ -21,7 +21,7 @@ One more thing, i am sorry for the poor layout, i did it in obsidian and was bit
 [8. Conclusion](#8-conclusion)<br>
 
 ## 0. Introduction
-In this Feedback, i mostly talk about Balancing Issues though with some focus on the more important stuff, mostly in [1. General Feedback](#1-general-feedback) and [8. Conclusion](#8.-conclusion).
+In this Feedback, i mostly talk about Balancing Issues though with some focus on the more important stuff, mostly in [1. General Feedback](#1-general-feedback) and [8. Conclusion](#8-conclusion).
 
 ## 1. General Feedback
 (This was also mentioned by Aidan briefly) I feel like a lot of things that are pretty hard to find on your own aren't explained anywhere a normal person would look. Though there is a codex page on the events as an example, most people who tried this beta for the first time or didn't have an insider introduction didn't even know some of these events existed. I don't even think the Codex Page is introduced to the new player.
