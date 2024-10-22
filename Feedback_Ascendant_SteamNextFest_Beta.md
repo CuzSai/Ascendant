@@ -18,7 +18,7 @@ One more thing, i am sorry for the poor layout, i did it in obsidian and was bit
 &nbsp;&nbsp;&nbsp;&nbsp;[6.3 Carrier Ability](#63-carrier-ability)<br>
 [7. Feedback of new players](#7-feedback-of.new-players)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;[7.1 l600f](#71-l600f)<br>
-[8. Conclusion](#8.-conclusion)<br>
+[8. Conclusion](#8-conclusion)<br>
 
 ## 0. Introduction
 In this Feedback, i mostly talk about Balancing Issues though with some focus on the more important stuff, mostly in [1. General Feedback](#1-general-feedback) and [8. Conclusion](#8.-conclusion).
