@@ -9,14 +9,14 @@ One more thing, i am sorry for the poor layout, i did it in obsidian and was bit
 
 [1. General Feedback](#1-general-feedback)<br>
 [2. Event Feedback](#2-event-feedback)<br>
-[3. Lobby Feedback](#1-lobby-experience)<br>
+[3. Lobby Feedback](#3-lobby-experience)<br>
 [4. Movement](#4-movement)<br>
 [5. Gunplay](#5-gunplay)<br>
 [6. Perks and Abilities](#6-perks-and-abilities)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;[6.1 Combat Perks](#61-combat-perks)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;[6.2 Utility Perks](#62-utility-perks)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;[6.3 Carrier Ability](#63-carrier-ability)<br>
-[7. Feedback of new players](#7-feedback-of.new-players)<br>
+[7. Feedback of new players](#7-feedback-of-new-players)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;[7.1 l600f](#71-l600f)<br>
 [8. Conclusion](#8-conclusion)<br>
 
