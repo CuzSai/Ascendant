@@ -1,4 +1,6 @@
+# ASCENDANT SNF FEEDBACK
 
+I would suggest to you reading the conclusion first, and see if what i say interest you.
 Before anything else, I would like to say that I am not the type that likes to write essays, so this will be a bit different to the normal type of feedback I give. If you have any Feedback on my feedback, just dm me about it, I'll try to implement it in future ones. If you wanna tell me i should just stick to playing, cause this shit ain't for me, i will take that too.
 Also obviously this is all my opinion, so you might not agree on everything i say.
 One more thing, i am sorry for the poor layout, i did it in obsidian and was bit hard to copy cause of .md...
@@ -16,14 +18,15 @@ One more thing, i am sorry for the poor layout, i did it in obsidian and was bit
 &nbsp;&nbsp;&nbsp;&nbsp;[6.3 Carrier Ability](#63-carrier-ability)<br>
 [7. Feedback of new players](#7-feedback-of.new-players)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;[7.1 l600f](#71-l600f)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;[7.2 xmorty_y](#72-xmorty_y)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;[7.3 testudoferus](#73-testudoferus)<br>
 [8. Conclusion](#8.-conclusion)<br>
+
+## 0. Introduction
+In this Feedback, i mostly talk about Balancing Issues though with some focus on the more important stuff, mostly in [1. General Feedback](#1-general-feedback) and [8. Conclusion](#8.-conclusion).
 
 ## 1. General Feedback
 (This was also mentioned by Aidan briefly) I feel like a lot of things that are pretty hard to find on your own aren't explained anywhere a normal person would look. Though there is a codex page on the events as an example, most people who tried this beta for the first time or didn't have an insider introduction didn't even know some of these events existed. I don't even think the Codex Page is introduced to the new player.
 
-One more thing on a general notice. The communication this beta was absolutely horrendous, ChaosCash brought this to my attention mostly. The early start, of course it was kinda nice, but it was scuffed at the same time, and the sudden end of top dogs.  These things could easily be announced earlier with better communication. Obviously i'm not gonna point fingers because i don't know where it failed, but due to my regular conversations with the Community Managers that normally put out these announcements, i don't think its to much of their fault. More than that i cant say and won't.
+One more thing on a general notice. The communication this beta was absolutely horrendous, ChaosCash brought this to my attention mostly. The early start, of course it was kinda nice, but it was scuffed at the same time, and the sudden end of top dogs.  These things could easily be announced earlier with better communication. Obviously i'm not gonna point fingers because i don't know where it failed, but due to my regular conversations with the Community Managers that normally put out these announcements, i don't think its to much of their fault. Maybe it's still because some of the team is fairly new, but this should just not be happening. More than that i can't really say.
 
 ## 2. Event Feedback
 In my opinion Events are a great part of Ascendant, though a lot of them are very unbalanced, i will try to not go as in depth for those who already got enough feedback from others like the EMP or else. Also the ones I did not list are pretty good balanced in my opinion.
@@ -132,9 +135,9 @@ Here i will test some out in future matches when i got time. i haven't tried mos
 
 
 ## 7. Feedback of new players
-Over this week I have had some friends that tried the game for the first time, it were only 1 that tried and 2 that watched some videos and they come from the same game, the cycle frontier, all of them are waiting for a good extraction game which has high ttk and is pretty movement based, but would be willing to give ascendant a try because I told them it was good. They also saw it on Minda999 Youtube video on it, so they have heard about it before i told them.
+Over this week I have had some friends that tried the game for the first time, it were only 1 that tried and come from the same game as me, the cycle frontier, he's waiting for a good extraction game which has high ttk and is pretty movement based, but was willing to give ascendant a try because I told him it was good. He also saw Minda999s' Youtube video on it, so he has heard about it before i told him.
 
-Quick side note, these guys **don't** deserve this glazing.
+Quick side note, this guy **doesn't** deserve this glazing.
 ### 7.1 l600f
 l6 plays mostly dark and darker nowadays, was top 500 overwatch, though still loves high ttk movement shooters. Plays hella aggressive assault rifle or SMG in most games. Movement player with solid aim.
 I, CuzSai, queued one game with him, he went in with nothing except the tutorial. Was planning to explain while playing, sadly we ran into RaedN and someone else i forgot who it was(some good player i think IceMan not sure). So he got absolutely cooked. After that he went off and hasn't played since. I will definitely make him play more the next time i get a chance to.
@@ -142,14 +145,10 @@ I, CuzSai, queued one game with him, he went in with nothing except the tutorial
 His reason to not playing anymore was, skill difference, this is obvious cause he was queuing with me. I wont make that mistake anymore. More reasons were, hes just so into extraction games nowadays that he wont dedicate the hours to an unfinished game as of right now. Which is absolutely fair. He said one more thing which i find interesting, he said that the map looks to big and it feels like the distances would be large but the guns feel like their mostly close range. He watched a video on someone who played without an insider or experienced player guiding them after he played for the first time. The part with the distance between fights and mostly close range guns is interesting and maybe shows (even tho it wasn't an insider event video he watched) that i should show my creators more bandwidth of the game, because I've mainly been showing em what they know from other games, which is mostly SMGs. I don't know if that was just him feeling that way but i will look for others to see what i could show creators or their respective communities that could help want them to play.
 
 
-### 7.2 xmorty_y
-Morty mainly plays overwatch right now, sometimes apex or finals and a bit of fragpunk, which he liked. Above average player, plays medium in finals and is rather passive and not as aggressive.
-
-### 7.3 testudoferus
-Testudo plays god knows what right now, has a lot of hours in apex, likes finals and also liked fragpunk when he played. He's a movement focused player and likes to play snipers and SMGs in most games.
-
-
-
 ## 8. Conclusion
 So what do we get from all of that. What should the developers and PF in general in my opinion focus on. 
 I would love if you kept going like this, i really like the kind of gamemode your focused on and what we played. It's very interesting and different from the regular capture the flag and goes pretty far away from the rise of hero and 3rd person shooters, what i really like.
+Though through talking with a lot of people during this beta, i really don't know how far this game can go, in this market. Obviously i don't know much about game market because i haven't really been invested in stuff like that for too long, i just play them for the most part, but i just heard people talking a lot.
+l600f as an example said, "if this was a extraction shooter, people would be dying to play this game", now i'm not too sure about how true that statement is, an extraction shooter would at least be a known kind of gamemode for most people and one that is similar to the beloved cycle, which has done... medium well. But to much time and effort and good ideas would have been wasted.
+At this state of game, i mostly just hope that PlayFusion has some type of plan because i don't think 500 players peak is good enough for them when spending probably ton of money on
+2 sponsored streams and multiple videos during an open beta. Best we, as the community, can do now is try to help them out and keep a player base during the open tests to give new players some real lobbies.
