@@ -3,6 +3,8 @@ Before anything else, I would like to say that I am not the type that likes to w
 Also obviously this is all my opinion, so you might not agree on everything i say.
 One more thing, i am sorry for the poor layout, i did it in obsidian and was bit hard to copy cause of .md...
 
+[Link to Section](#general-feedback)
+
 ### General Feedback
 (This was also mentioned by Aidan briefly) I feel like a lot of things that are pretty hard to find on your own aren't explained anywhere a normal person would look. Though there is a codex page on the events as an example, most people who tried this beta for the first time or didn't have an insider introduction didn't even know some of these events existed. I don't even think the Codex Page is introduced to the new player.
 
