@@ -104,7 +104,7 @@ It would be very different if you wanted perks to be just a small add on, but th
 | **CLUSTER SPLITTER**      | A direct hit to a target with a sniper rifle cluster  <br>primary projectile spawns two additional cluster  <br>bombs and all the clusters then deal 20% more  <br>damage. | A direct hit to a target with a sniper rifle cluster primary projectile spawns two additional cluster bombs and all the clusters then deal 50% more damage.                     |
 (Contagion: i have no idea what that means)
 
-
+<br><br>
 
 ### 6.2 Utility Perks
 
