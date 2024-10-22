@@ -5,10 +5,10 @@
 [Very far Biocore Jump](#Very-far-Biocore-jump)<br>
 [Bot Stealing Biocore while Walking away](#Bot-stealing-Biocore-while-walking-away)<br>
 [Bot inside Extract Vehicle while Stealing Biocore](#Bot-inside-extract-vehicle-while-stealing-Biocore)<br>
-[Gorlizard inside Tree and big ugged Jump](#Gorlizard-inside-tree-and-big-bugged-jump)<br>
-[Gorlizard on interesting spot in Cave Outpost](#Gorlizard-on-interesting-spot-in-Cave-Outpost)<br>
-[Gorlizard unshootable while in his Head](#Gorlizard-unshootable-while-in-his-head)<br>
-[Horizontal Movement is bugged](#Horizontal-movement-is-bugged)<br>
+[Gorlizard inside Tree and big Jump](#Gorlizard-inside-tree-and-big-bugged-jump)<br>
+[Gorlizard bugged Spot](#Gorlizard-on-interesting-spot-in-Cave-Outpost)<br>
+[Gorlizard unshootable](#Gorlizard-unshootable-while-in-his-head)<br>
+[Horizontal Movement impossible](#Horizontal-movement-is-bugged)<br>
 
 
 
