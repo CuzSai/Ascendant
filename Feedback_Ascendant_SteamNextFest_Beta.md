@@ -1,7 +1,6 @@
 # ASCENDANT SNF FEEDBACK
 
-I would suggest to you reading the conclusion first, and see if what i say interest you.
-Before anything else, I would like to say that I am not the type that likes to write essays, so this will be a bit different to the normal type of feedback I give. If you have any Feedback on my feedback, just dm me about it, I'll try to implement it in future ones. If you wanna tell me i should just stick to playing, cause this shit ain't for me, i will take that too.
+Before anything else, I would like to say that I am not the type that likes to write essays, so this will be a bit different to the normal type of feedback I give.
 Also obviously this is all my opinion, so you might not agree on everything i say.
 One more thing, i am sorry for the poor layout, i did it in obsidian and was bit hard to copy cause of .md...
 
@@ -137,7 +136,7 @@ Here i will test some out in future matches when i got time. i haven't tried mos
 ## 7. Feedback of new players
 Over this week I have had some friends that tried the game for the first time, it were only 1 that tried and come from the same game as me, the cycle frontier, he's waiting for a good extraction game which has high ttk and is pretty movement based, but was willing to give ascendant a try because I told him it was good. He also saw Minda999s' Youtube video on it, so he has heard about it before i told him.
 
-Quick side note, this guy **doesn't** deserve this glazing.
+
 ### 7.1 l600f
 l6 plays mostly dark and darker nowadays, was top 500 overwatch, though still loves high ttk movement shooters. Plays hella aggressive assault rifle or SMG in most games. Movement player with solid aim.
 I, CuzSai, queued one game with him, he went in with nothing except the tutorial. Was planning to explain while playing, sadly we ran into RaedN and someone else i forgot who it was(some good player i think IceMan not sure). So he got absolutely cooked. After that he went off and hasn't played since. I will definitely make him play more the next time i get a chance to.<br>
