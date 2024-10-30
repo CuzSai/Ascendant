@@ -18,6 +18,9 @@ One more thing, i am sorry for the poor layout, i did it in obsidian and was bit
 [7. Feedback of new players](#7-feedback-of-new-players)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;[7.1 l600f](#71-l600f)<br>
 [8. Conclusion](#8-conclusion)<br>
+[9. Addition(Animation/Audio)](#9-addition(animation/audio))<br>
+&nbsp;&nbsp;&nbsp;&nbsp;[9.1 Visual Animations](#91-visual-animations)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;[9.2 Sound Effects](#92-sound-effects)<br>
 
 ## 0. Introduction
 In this Feedback, i mostly talk about Balancing Issues though with some focus on the more important stuff, mostly in [1. General Feedback](#1-general-feedback) and [8. Conclusion](#8-conclusion).
@@ -151,3 +154,16 @@ Though through talking with a lot of people during this beta, i really don't kno
 l600f as an example said, "if this was a extraction shooter, people would be dying to play this game", now i'm not too sure about how true that statement is, an extraction shooter would at least be a known kind of gamemode for most people and one that is similar to the beloved cycle, which has done... medium well. But to much time and effort and good ideas would have been wasted.<br>
 At this state of game, i mostly just hope that PlayFusion has some type of plan because i don't think 500 players peak is good enough for them when spending probably ton of money on<br>
 2 sponsored streams and multiple videos during an open beta. Best we, as the community, can do now is try to help them out and keep a player base during the open tests to give new players some real lobbies.
+
+
+<br><br>
+
+## 9. Addition(Animation/Audio)
+This is an Addition to the previously submitted feedback, which i forgot to mention about in there. I'll just add it here to have everything in one place. This section goes over smoothness of the game, not really finetuning in my opinion because it really helps a lot with how good the game feels or rather how finished the game feels.
+
+### 9.1 Visual Animations
+What i mean by this is inspects, reloads, physics for guns like if you land heavily your gun is impacted, etc. you know what i mean. Even though it doesn't sound really important, i feel like it makes the game more responsive and alive. This might help with new players because it makes it look less like a in development game or lets say it makes it look further in its development. 
+I've noticed this more and more as i test different games, but for me at least it changes a lot about the feel of the game in general. If you look at something like Apex, maybe a Kraber you really feel the weight of the gun, not only in movement speed but also in animations. If you would land from a height, you'd see the character "stabilize" the gun first. I'm not saying that this should interfere with quick scopes or movement in general, just visually.
+
+### 9.2 Sound Effects
+Same as with the Visuals, this will just make the game feel more alive and responsive, really. This will be about as an example a Sniper shot feeling like a sniper shot. Like if you shoot a heavy sniper there should be a significant and satisfying sound. Same with headshots in general and other guns obviously. As you see i like to take Apex as an example, but i feel like in this they did really good. But again look at a Kraber or shield crack sound from Apex. You just find it satisfying to use, same with other guns in apex and from other games. One more example, The headshot sound from The Cycle: Frontier, is one of the best I've heard. It's distinct but very noticeable and satisfying.
