@@ -18,7 +18,7 @@ One more thing, i am sorry for the poor layout, i did it in obsidian and was bit
 [7. Feedback of new players](#7-feedback-of-new-players)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;[7.1 l600f](#71-l600f)<br>
 [8. Conclusion](#8-conclusion)<br>
-[9. Addition(Animation/Audio)](#9-addition(animation/audio)-(301024))<br>
+[9. Addition(Animation/Audio)](#9-additionanimation/audio-301024)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;[9.1 Visual Animations](#91-visual-animations)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;[9.2 Sound Effects](#92-sound-effects)<br>
 
