@@ -159,7 +159,7 @@ At this state of game, i mostly just hope that PlayFusion has some type of plan 
 <br><br>
 
 ## 9. Addition(Animation/Audio) (30.10.24)
-This is an Addition to the previously submitted feedback, which i forgot to mention about in there. I'll just add it here to have everything in one place. This section goes over smoothness of the game, not really finetuning in my opinion because it really helps a lot with how good the game feels or rather how finished the game feels.
+This is an addition to the previously submitted feedback, which i forgot to mention about in there. I'll just add it here to have everything in one place. This section goes over smoothness of the game, not really finetuning in my opinion because it really helps a lot with how good the game feels or rather how finished the game feels.
 
 ### 9.1 Visual Animations
 What i mean by this is inspects, reloads, physics for guns like if you land heavily your gun is impacted, etc. you know what i mean. Even though it doesn't sound really important, i feel like it makes the game more responsive and alive. This might help with new players because it makes it look less like a in development game or lets say it makes it look further in its development. 
