@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/2a804061-6c0d-4dba-b6b4-b57922520b4d)# ASCENDANT SNF FEEDBACK
+# ASCENDANT SNF FEEDBACK
 
 Before anything else, I would like to say that I am not the type that likes to write essays, so this will be a bit different to the normal type of feedback I give.
 Also obviously this is all my opinion, so you might not agree on everything i say.
