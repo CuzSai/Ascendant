@@ -1,19 +1,19 @@
 # Content
 [1. Biocore Hyperdrive](#1-Biocore-Hyperdrive)<br>
-&nbsp;&nbsp;[1.1 Summary Hyperdrive](#11-Summary-Hyperdrive)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;[1.1 Summary Hyperdrive](#11-Summary-Hyperdrive)<br>
 [2. Dates and Communication](#2-Dates-and-Communication)<br>
-&nbsp;&nbsp;[2.2 Summary Communication](#22-Summary-Communication)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;[2.2 Summary Communication](#22-Summary-Communication)<br>
 [3. Balancing](#3-Balancing)<br>
-&nbsp;&nbsp;[3.1 Weapons](#31-Weapons)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;[3.1.1 Summary Weapons](#311-Summary-Weapons)<br>
-&nbsp;&nbsp;[3.2 Events](32-Events)<br>
-&nbsp;&nbsp;[3.3 Perks and Abilities](#33-Perks-and-Abilities)<br>
-&nbsp;&nbsp;[3.4 General Balancing](#34-General-Balancing)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;[3.1 Weapons](#31-Weapons)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[3.1.1 Summary Weapons](#311-Summary-Weapons)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;[3.2 Events](32-Events)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;[3.3 Perks and Abilities](#33-Perks-and-Abilities)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;[3.4 General Balancing](#34-General-Balancing)<br>
 [4. Soundeffects/Animations](#4-SoundeffectsAnimations)<br>
-&nbsp;&nbsp;[4.1 Visual Animations](#41-Visual-Animations)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;[4.1.1 Summary Animations](#411-Summary-Animations)<br>
-&nbsp;&nbsp;[4.2 Sound Effects](#42-Sound-Effects)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;[4.2.1 Summary Effects](#421-Summary-Effects)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;[4.1 Visual Animations](#41-Visual-Animations)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[4.1.1 Summary Animations](#411-Summary-Animations)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;[4.2 Sound Effects](#42-Sound-Effects)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[4.2.1 Summary Effects](#421-Summary-Effects)<br>
 [5. Conclusion](#5-Conclusion)<br>
 
 # 1. Biocore Hyperdrive
