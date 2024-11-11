@@ -25,7 +25,7 @@ Not ideal for a competitive setting. Maybe up the team-/playercount and it could
 
 # 2. Dates and Communication
 I still feel like there is a lack in communication to the general community about dates, specific times or rules.<br>
-Its nice that there was a said ending date for the Top dogs event now, tho nothing about the time of the finals or even how that will go on, same with the underdogs event. To be honest except for the "1 team per bracket qualify" info, i did not know anything about the event. Now this could be just me missing stuff, but the people i talked to did not know either, so i don't think so.<br>
+Its nice that there was a said ending date for the Beta event now but still nothing straight up for the top dogs, it just says 8.10. to 10.10., also nothing about the time of the finals or even how that will go on, same with the underdogs event. To be honest except for the "1 team per bracket qualify" info, i did not know anything about the event. Now this could be just me missing stuff, but the people i talked to did not know either, so i don't think so.<br>
 It says place 5-50 are qualified to take part in underdogs tho there are only 3 clans that moved to finals. Now i know this will probably change, due to the server outage, though all of it should be set beforehand to know what the top dogs and the players are working with and for.<br>
 Also to touch on the specific times real quick, starting on a Friday mid day is crazy and ending on a normal Monday at the same time is even crazier, not gonna lie. I really don't know who thought of that, but it should really be reconsidered doing these times for a event that has to do with playtime. <br>
 
