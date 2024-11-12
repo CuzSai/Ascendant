@@ -50,21 +50,21 @@ There is one exception, Heavy assault rifles feel like shit as of now. They defi
 
 
 #### 3.1.1.2 Beam gloves
-Alright. Now, ive added this late, after having a closer chat with aidan and other people with different opinion since i thought it was pretty clear whats up with the beam gloves.
+Alright. Now, ive added this late, after having a closer chat with aidan and other people with different opinion since i thought it was pretty clear whats up with the beam gloves.<br>
 
-Anyway, generally i would say that the beamgloves in 2v2 is just way to strong and theres basicly no existing counterplay. Now my recommendations to counter this.
+Anyway, generally i would say that the beamgloves in 2v2 is just way to strong and theres basicly no existing counterplay. Now my recommendations to counter this.<br>
 
-As said before one possibily is, to give the healer a increase in incoming damage while using heal. Tho i dont think this will be enough since its hard to even get on the healer.
-Secondly, a better idea is that there should be nades that dissable healing, this could well be implemented by emp nades and emp event.
-One more idea is that certain nades or all nades do more dmg to healer and healed.
-All of these could be paired. 
+As said before one possibily is, to give the healer a increase in incoming damage while using heal. Tho i dont think this will be enough since its hard to even get on the healer.<br>
+Secondly, a better idea is that there should be nades that dissable healing, this could well be implemented by emp nades and emp event.<br>
+One more idea is that certain nades or all nades do more dmg to healer and healed.<br>
+All of these could be paired. <br>
 
-I really thought this was clear for everyone that beamgloves were too good, but i guess not. In this next segment il explain my reasoning for interested
+I really thought this was clear for everyone that beamgloves were too good, but i guess not. In this next segment il explain my reasoning for interested<br>
 
-If this game continoues to go into a competitive direction, which is what i think will happen, forcing players to play a certain gun is in on its own not a good idea, paired with the fact that beam gloves are extremly lame to play for the average player it will scare a lot of people off.
-The counterplay for this gun is nonexistent, i have heard mentions about "repositioning" and "force push". Now first of all almost every position can be played with beam gloves, and just rotating around for ages to get 2 kills is not fun at all nor productive for the games pace.
-Yes there is certain counterability such as nades, tho if youre not playing against new players they wont really be affected by that.
-Another thing is that they dont have a skill ceiling nor is theire "skillfloor" anything hard at all, so basicly anyone can use them the same good mostly.
+If this game continoues to go into a competitive direction, which is what i think will happen, forcing players to play a certain gun is in on its own not a good idea, paired with the fact that beam gloves are extremly lame to play for the average player it will scare a lot of people off.<br>
+The counterplay for this gun is nonexistent, i have heard mentions about "repositioning" and "force push". Now first of all almost every position can be played with beam gloves, and just rotating around for ages to get 2 kills is not fun at all nor productive for the games pace.<br>
+Yes there is certain counterability such as nades, tho if youre not playing against new players they wont really be affected by that.<br>
+Another thing is that they dont have a skill ceiling nor is theire "skillfloor" anything hard at all, so basicly anyone can use them the same good mostly.<br>
 Now for the grenades that dissable healing, i wouldnt have thought i needed to explain myself, but most players run a close range and a far range gun. so mostly far range cant be used in closerange. Beamglove people, will probably more so go for a closerange gun as theyre secondary. So if theyre heal gloves are infact dissabled, they still have the same winning chances than the other team. So the only thing they do is make a fight fair for the amount of time the grenade lasts.
 
 
