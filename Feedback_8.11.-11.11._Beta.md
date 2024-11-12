@@ -5,7 +5,10 @@
 &nbsp;&nbsp;&nbsp;&nbsp;[2.2 Summary Communication](#22-Summary-Communication)<br>
 [3. Balancing](#3-Balancing)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;[3.1 Weapons](#31-Weapons)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[3.1.1 Summary Weapons](#311-Summary-Weapons)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[3.1.1 Changes](#311-Changes)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[3.1.1.1 Heavy AR](#3111-Heavy-AR)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[3.1.1.2 Beam gloves](#3112-Beam-gloves)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[3.1.2 Summary Weapons](#312-Summary-Weapons)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;[3.2 Events](32-Events)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;[3.3 Perks and Abilities](#33-Perks-and-Abilities)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;[3.4 General Balancing](#34-General-Balancing)<br>
@@ -39,10 +42,35 @@ In general i think PF done a good job at balancing with the little feedback they
 ## 3.1 Weapons
 I don't have much to say about this, though i'll touch on it really quickly.<br>
 For the guns, i feel like in this beta, i have thought about everything pretty equally, obviously people will still pick up a 100 power SMG before they buy a 500 sniper. That's why they are still used more, but with the undergone changes i feel like plasmas have received the changes they need and the other guns are all very viable.<br>
+
+### 3.1.1 Changes
+
+#### 3.1.1.1 Heavy AR
 There is one exception, Heavy assault rifles feel like shit as of now. They definitely need a buff.
 
-### 3.1.1 Summary Weapons
+
+#### 3.1.1.2 Beam gloves
+Alright. Now, ive added this late, after having a closer chat with aidan and other people with different opinion since i thought it was pretty clear whats up with the beam gloves.
+
+Anyway, generally i would say that the beamgloves in 2v2 is just way to strong and theres basicly no existing counterplay. Now my recommendations to counter this.
+
+As said before one possibily is, to give the healer a increase in incoming damage while using heal. Tho i dont think this will be enough since its hard to even get on the healer.
+Secondly, a better idea is that there should be nades that dissable healing, this could well be implemented by emp nades and emp event.
+One more idea is that certain nades or all nades do more dmg to healer and healed.
+All of these could be paired. 
+
+I really thought this was clear for everyone that beamgloves were too good, but i guess not. In this next segment il explain my reasoning for interested
+
+If this game continoues to go into a competitive direction, which is what i think will happen, forcing players to play a certain gun is in on its own not a good idea, paired with the fact that beam gloves are extremly lame to play for the average player it will scare a lot of people off.
+The counterplay for this gun is nonexistent, i have heard mentions about "repositioning" and "force push". Now first of all almost every position can be played with beam gloves, and just rotating around for ages to get 2 kills is not fun at all nor productive for the games pace.
+Yes there is certain counterability such as nades, tho if youre not playing against new players they wont really be affected by that.
+Another thing is that they dont have a skill ceiling nor is theire "skillfloor" anything hard at all, so basicly anyone can use them the same good mostly.
+Now for the grenades that dissable healing, i wouldnt have thought i needed to explain myself, but most players run a close range and a far range gun. so mostly far range cant be used in closerange. Beamglove people, will probably more so go for a closerange gun as theyre secondary. So if theyre heal gloves are infact dissabled, they still have the same winning chances than the other team. So the only thing they do is make a fight fair for the amount of time the grenade lasts.
+
+
+### 3.1.2 Summary Weapons
 In general, weapon balance feels good with viable options across the board. However, heavy assault rifles stand out as underperforming and could use a buff.
+
 
 
 ## 3.2 Events
