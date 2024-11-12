@@ -1,14 +1,15 @@
 # BUGREPORT
 ## Content
-[21.10. No Damage Bug](#no-damage-bug)<br>
-[21.10. Shield Repairs not Working](#Shield-repairs-not-working)<br>
-[21.10. Very far Biocore Jump](#Very-far-Biocore-jump)<br>
-[21.10. Bot Stealing Biocore while Walking away](#Bot-stealing-Biocore-while-walking-away)<br>
-[21.10. Bot inside Extract Vehicle while Stealing Biocore](#Bot-inside-extract-vehicle-while-stealing-Biocore)<br>
-[21.10. Gorlizard inside Tree and big Jump](#Gorlizard-inside-tree-and-big-bugged-jump)<br>
-[21.10. Gorlizard bugged Spot](#Gorlizard-on-interesting-spot-in-Cave-Outpost)<br>
-[21.10. Gorlizard unshootable](#Gorlizard-unshootable-while-in-his-head)<br>
-[21.10. Horizontal Movement impossible](#Horizontal-movement-is-bugged)<br>
+### 21.10.24
+[No Damage Bug](#no-damage-bug)<br>
+[Shield Repairs not Working](#Shield-repairs-not-working)<br>
+[Very far Biocore Jump](#Very-far-Biocore-jump)<br>
+[Bot Stealing Biocore while Walking away](#Bot-stealing-Biocore-while-walking-away)<br>
+[Bot inside Extract Vehicle while Stealing Biocore](#Bot-inside-extract-vehicle-while-stealing-Biocore)<br>
+[Gorlizard inside Tree and big Jump](#Gorlizard-inside-tree-and-big-bugged-jump)<br>
+[Gorlizard bugged Spot](#Gorlizard-on-interesting-spot-in-Cave-Outpost)<br>
+[Gorlizard unshootable](#Gorlizard-unshootable-while-in-his-head)<br>
+[Horizontal Movement impossible](#Horizontal-movement-is-bugged)<br>
 
 
 
